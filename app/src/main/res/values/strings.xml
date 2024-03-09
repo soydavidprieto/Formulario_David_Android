@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContactForm_David</string>
+    <string name="Titulo">Formulario</string>
+    <string name="inputName">Nombres</string>
+    <string name="inputEmal">Email</string>
+    <string name="inputPhone">Telefono</string>
+    <string name="inputMessahe">Mensaje</string>
+    <string name="buttonSend">Enviar</string>
+    <string name="Titulo2">Datos registrados</string>
+    <string name="buttonBack">Volver</string>
+</resources>
